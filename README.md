@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+This is an example for manupirating Excel file in Ruby on Rails.
 
 * Ruby version
+2.6.0
 
 * System dependencies
+rails 5.2.2
 
 * Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
+no DB
 
 * Deployment instructions
 
-* ...
+```
+git clone https://github.com/ytnk531/excel-example
+cd excel-example
+bin/bundle install
+bin/rails s
+```
+
