@@ -1,0 +1,8 @@
+<%= form_tag({action: :create}, multipart: true) do %>
+  <div>
+  <%= file_field_tag :file %>
+  </div>
+  <div>
+  <%= submit_tag "Send" %>
+  </div>
+<% end %>
