@@ -1,0 +1,15 @@
+current directory: /Users/shiomitomoaki/MyStudy/excel-example/vendor/bundle/gems/bootsnap-1.4.1/ext/bootsnap
+/Users/shiomitomoaki/.rbenv/versions/2.6.0/bin/ruby -I /Users/shiomitomoaki/.rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20210120-60145-1vtjevu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/shiomitomoaki/MyStudy/excel-example/vendor/bundle/gems/bootsnap-1.4.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/shiomitomoaki/MyStudy/excel-example/vendor/bundle/gems/bootsnap-1.4.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/shiomitomoaki/MyStudy/excel-example/vendor/bundle/gems/bootsnap-1.4.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210120-60145-ktmg29/bootsnap

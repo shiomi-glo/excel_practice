@@ -1,0 +1,15 @@
+current directory: /Users/shiomitomoaki/MyStudy/excel-example/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+/Users/shiomitomoaki/.rbenv/versions/2.6.0/bin/ruby -I /Users/shiomitomoaki/.rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20210120-60145-1oa93lw.rb extconf.rb
+creating Makefile
+
+current directory: /Users/shiomitomoaki/MyStudy/excel-example/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/shiomitomoaki/MyStudy/excel-example/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/shiomitomoaki/MyStudy/excel-example/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20210120-60145-g0hycg
